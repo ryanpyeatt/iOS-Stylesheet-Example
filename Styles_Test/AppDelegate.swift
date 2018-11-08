@@ -3,7 +3,7 @@
 //  Styles_Test
 //
 //  Created by Pyeatt, Ryan on 10/31/18.
-//  Copyright © 2018 Evanta. All rights reserved.
+//  Copyright © 2018 Ryan Pyeatt. All rights reserved.
 //
 
 import UIKit
